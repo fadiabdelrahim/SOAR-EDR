@@ -13,6 +13,8 @@ This project demonstrates the implementation of a Security Orchestration, Automa
 2. LimaCharlie Setup:
     - Installation and configuration of LimaCharlie EDR on a virtual machine (Azure VM).
     - LimaCharlie is set up to monitor events in real-time, ensuring telemetry collection.
+<p align="center"><img src="images/Timeline.png"></p>
+
 3. Telemetry Collection:
     - Uses the LaZagne password recovery tool to simulate an attack.
     - Detection and Response (D&R) rules are created in LimaCharlie to track and respond to the LaZagne process.
