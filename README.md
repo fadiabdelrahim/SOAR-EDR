@@ -1,5 +1,8 @@
-# SOAR-EDR Project
+# <p align="center"> SOAR-EDR Project
 
+<p align="center"><img src="images/SOAR EDR Project.png"></p>
+
+## Introduction
 This project demonstrates the implementation of a Security Orchestration, Automation, and Response (SOAR) solution integrated with Endpoint Detection and Response (EDR) using LimaCharlie and Tines, with alerts being sent to Slack. The project automates the detection and response process for potential security threats, providing real-time telemetry, alerts, and network isolation based on the playbook workflow.
 
 ## Key Components:
