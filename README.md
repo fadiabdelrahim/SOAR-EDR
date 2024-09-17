@@ -31,3 +31,10 @@ This project demonstrates the implementation of a Security Orchestration, Automa
 5. Automation:
     - Automation of playbook workflows using Tines, where security events trigger appropriate actions.
     - Automates the isolation of affected systems based on the user’s response in Slack or email.
+
+<p align="center"><img src="images/SOAR-EDR-storyboard.png"></p>
+<p align="center"><img src="images/isolated-network.png"></p>
+<p align="center"><img src="images/Slack Notification-Status Update.png"></p>
+
+## Conclusion
+This project showcases a full SOAR-EDR solution with LimaCharlie, Slack, and Tines, focusing on automated detection and response to potential threats in a Windows environment. The integration streamlines the response process, reduces manual intervention, and ensures quick containment of detected threats.
