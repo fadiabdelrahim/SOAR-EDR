@@ -18,10 +18,16 @@ This project demonstrates the implementation of a Security Orchestration, Automa
 3. Telemetry Collection:
     - Uses the LaZagne password recovery tool to simulate an attack.
     - Detection and Response (D&R) rules are created in LimaCharlie to track and respond to the LaZagne process.
+<p align="center"><img src="images/Detect Rule.png"></p>
+<p align="center"><img src="images/Respond Rule.png"></p>
+
 4. Slack & Tines Integration:
     - Configures Slack for alert notifications.
     - Establishes the connection between LimaCharlie and Tines using a webhook.
     - Verifies that alerts are sent to Slack upon detection of suspicious activity.
+<p align="center"><img src="images/Slack Notification.png"></p>
+<p align="center"><img src="images/Slack-message-link.png"></p>
+
 5. Automation:
     - Automation of playbook workflows using Tines, where security events trigger appropriate actions.
     - Automates the isolation of affected systems based on the user’s response in Slack or email.
