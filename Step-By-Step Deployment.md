@@ -13,9 +13,9 @@ The setup focuses on deploying a virtual environment, configuring the necessary 
 - [Part 4: Salck & Tines](#Part-4-Salck-&-Tines)
 - [Part 5: Automation](#Part-5-Automation)
 
-## Step-by-Step Implementation Guide
+## <p align="center">Step-by-Step Implementation Guide
 
-### Part 1: Diagram
+### <ins>Part 1: Diagram</ins>
 - Create playbook workflow
   - Send a Slack message containing information about the detection
   - Send an Email containing information about the detection
@@ -27,7 +27,7 @@ The setup focuses on deploying a virtual environment, configuring the necessary 
 
 <p align="center"><img src="images/SOAR EDR Project.png"></p>
 
-### Part 2: Deploy Virtual server and setup LimaCharlie
+### <ins>Part 2: Deploy Virtual server and setup LimaCharlie</ins>
 - Deploy Virtual Server
 - Install and setup LimaCharlie
 - Confirm Events
@@ -118,7 +118,7 @@ The setup focuses on deploying a virtual environment, configuring the necessary 
 <p align="center"> Select the computer name and navigate to timeline to confirm LimaCharlie is generating events
 <p align="center"><img src="images/Picture34.png"></p>
 
-### Part 3: Telemetry
+### <ins>Part 3: Telemetry</ins>
 - Generate telemetry (Lazagne)
 - Create detection and response rule
 
@@ -197,7 +197,7 @@ The setup focuses on deploying a virtual environment, configuring the necessary 
 <p align="center"><img src="images/Picture62.png"></p>
 <p align="center"><img src="images/Picture63.png"></p>
 
-### Part 4: Slack & Tines
+### <ins>Part 4: Slack & Tines</ins>
 - Setup Slack and Tines
 - Test Connection (LimaCharlie & Tines)
 
@@ -261,7 +261,7 @@ The setup focuses on deploying a virtual environment, configuring the necessary 
 <p align="center"><img src="images/Picture86.png"></p>
 <p align="center"><img src="images/Picture87.png"></p>
 
-### Part 5: Automation
+### <ins>Part 5: Automation</ins>
 - Create automation for playbook workflow
 - Test the automation response for network isolation
 
