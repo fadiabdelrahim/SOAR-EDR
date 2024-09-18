@@ -10,7 +10,7 @@ The setup focuses on deploying a virtual environment, configuring the necessary 
 - [Part 1: Diagram (playbook workflow)](#Part-1-Diagram)
 - [Part 2: Deploy Virtual server and setup LimaCharlie](#Part-2-Deploy-Virtual-server-and-setup-LimaCharlie)
 - [Part 3: Telemetry](#Part-3-Telemetry)
-- [Part 4: Salck & Tines](#Part-4-Slack-&-Tines)
+- [Part 4: Salck & Tines](#Part-4-Slack-Tines)
 - [Part 5: Automation](#Part-5-Automation)
 
 ## <p align="center">Step-by-Step Implementation Guide
